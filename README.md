@@ -27,7 +27,4 @@ The dashboard serves as a decision-support tool for retail management:
 - **Data Integrity:** Ensured consistent reporting standards across multi-year datasets by cleaning and structuring data at the source.
 - **Storytelling:** Developed intuitive visualizations that translate complex multi-year trends into clear executive summaries.
 
-## 📂 Repository Contents
-- `Superstore_Automated_Dashboard.xlsx`: The master Excel file containing the automated pipeline and Pivot-based dashboard.
-- `Sales_Reports/`: Sample directory structure showcasing how the automation integrates new data sources.
-- `Dashboard_Screenshots.png`: Visual overview of the interactive dashboard and slicer functionality.
+
